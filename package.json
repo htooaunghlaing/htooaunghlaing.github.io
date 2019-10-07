@@ -1,0 +1,120 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "startbootstrap-resume",
+        "scope": null,
+        "escapedName": "startbootstrap-resume",
+        "name": "startbootstrap-resume",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/htooaunghlaing/Documents/portfolio"
+    ]
+  ],
+  "_from": "startbootstrap-resume@latest",
+  "_hasShrinkwrap": false,
+  "_id": "startbootstrap-resume@5.0.7",
+  "_inCache": true,
+  "_location": "/startbootstrap-resume",
+  "_nodeVersion": "11.6.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/startbootstrap-resume_5.0.7_1560452872683_0.9485932820523697"
+  },
+  "_npmUser": {
+    "name": "startbootstrap",
+    "email": "feedback@startbootstrap.com"
+  },
+  "_npmVersion": "6.9.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "startbootstrap-resume",
+    "scope": null,
+    "escapedName": "startbootstrap-resume",
+    "name": "startbootstrap-resume",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/startbootstrap-resume/-/startbootstrap-resume-5.0.7.tgz",
+  "_shasum": "90a40e630bd960f755ec4d853be8807ec2eab7b0",
+  "_shrinkwrap": null,
+  "_spec": "startbootstrap-resume",
+  "_where": "/Users/htooaunghlaing/Documents/portfolio",
+  "author": {
+    "name": "Start Bootstrap"
+  },
+  "bugs": {
+    "url": "https://github.com/BlackrockDigital/startbootstrap-resume/issues",
+    "email": "feedback@startbootstrap.com"
+  },
+  "contributors": [
+    {
+      "name": "David Miller",
+      "url": "http://davidmiller.io/"
+    }
+  ],
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "5.9.0",
+    "bootstrap": "4.3.1",
+    "jquery": "3.4.1",
+    "jquery.easing": "^1.4.1"
+  },
+  "description": "Resume is a simple, yet elegant resume and CV theme for Bootstrap 4.",
+  "devDependencies": {
+    "browser-sync": "2.26.7",
+    "del": "4.1.1",
+    "gulp": "4.0.2",
+    "gulp-autoprefixer": "6.1.0",
+    "gulp-clean-css": "4.2.0",
+    "gulp-header": "2.0.7",
+    "gulp-plumber": "^1.2.1",
+    "gulp-rename": "1.4.0",
+    "gulp-sass": "4.0.2",
+    "gulp-uglify": "3.0.2",
+    "merge-stream": "2.0.0"
+  },
+  "directories": {},
+  "dist": {
+    "integrity": "sha512-f+ei2dTq6Ke9ESEf3LbCzMVbsvepKd5BOxAsnMCzv5VxvSkfkjv3fY4XHuvkcLN1OzKFZfrjHAKpldJxTEfY5g==",
+    "shasum": "90a40e630bd960f755ec4d853be8807ec2eab7b0",
+    "tarball": "https://registry.npmjs.org/startbootstrap-resume/-/startbootstrap-resume-5.0.7.tgz",
+    "fileCount": 76,
+    "unpackedSize": 7859576,
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJdAp8JCRA9TVsSAnZWagAA4icQAI4+j63OBNMIbHyOJRiS\nNaMiABr/ebKadvzPSeJMwuePaLIfQY0fGEVUdnp9CHaAFSNV3Ug4Eq19V0Yy\n3xbEXgMiUtxXCQjv3I5FPrzDwa2zrkugDnNjn55ZaTRbQ5XoAvprshc+EuWG\ndC2ffzi6vz/mxJE93VSjyVUx2Kd/I2W6+XqULadXNoLxKqt7UfuJFKaP9Tx9\nTTgseW4wptbDc9eyWbTeti6cLnw/htKl2fxr8enYpaRwIqe5QY24nhDVnWzG\n6nyvRVcTpllu2nIliFZkOwFxwKrFANHXcXbjFlefUKLOnEnOE9CKe+4riIX/\nswwGRO1tXQJfNApAdRkFqHRtwuGIFN9GiHVSLhLfqXyF+PpLc1AXYoYAY19y\nhlCTuIWMioL21t3YXqdss0RLwWepZurXLnmTy6CfLq1onbG8i+6Mh5d/3Vas\n7RSP1QHzEaaE16YIXJNZVG34I8bkZXyQXmzHJfNiJGmyPRtHifYZZUY2JdfW\nT/js0QAJWjVlqJqE4vz5H5sTw69YPnb1wkHQjXqqFExbKAquGMqG0gUWMlHY\nxVIE9T3lZjhkLDn/VKGhiIWynDmmvDiSAue9sPW2ThsLEwRh7uKRSiN/btrW\n3hUmhTI6Lxg757XDawKzGlhl/F9UyKx5u5RQ7sQwUPYkVuvESAyul7hMGX/I\nhJFa\r\n=Eec9\r\n-----END PGP SIGNATURE-----\r\n"
+  },
+  "gitHead": "47e7400ad8f75a48c9187bd70da534e0ec853aef",
+  "homepage": "https://startbootstrap.com/template-overviews/resume",
+  "keywords": [
+    "css",
+    "sass",
+    "html",
+    "responsive",
+    "theme",
+    "template"
+  ],
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "startbootstrap",
+      "email": "feedback@startbootstrap.com"
+    }
+  ],
+  "name": "startbootstrap-resume",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlackrockDigital/startbootstrap-resume.git"
+  },
+  "scripts": {
+    "start": "gulp watch"
+  },
+  "title": "Resume",
+  "version": "5.0.7"
+}
